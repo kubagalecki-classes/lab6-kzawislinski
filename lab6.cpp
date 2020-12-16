@@ -1,6 +1,5 @@
 #include <iostream>
+#include <vector>
 
 int main()
-{
-    puts("Hello, World!");
-}
+{}
